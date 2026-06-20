@@ -1,6 +1,6 @@
 <div align="center">👋 Olá, eu sou o Sync!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Entusiasta+de+tecnologia;Amante+dos+games;Cursando+Gest%C3%A3o+de+TI;Configurador+de+Servidores+Minecraft;Criando+bots +plugins+e+sistemas" alt="Typing SVG" /></div>---
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Entusiasta+de+tecnologia;Amante+dos+games;Cursando+Gest%C3%A3o+de+TI;Configurador+de+Servidores+Minecraft;Criando+bots+plugins+e+sistemas" alt="Typing SVG" /></div>
 
 <div align="center">🟣 Sobre mim
 
@@ -10,7 +10,7 @@ Atualmente estou cursando Gestão de TI pela Estácio e venho construindo minha 
 
 Tenho interesse em desenvolvimento de sistemas, organização de projetos, infraestrutura, comunidades online e soluções que ajudem equipes, servidores e empresas a trabalharem de forma mais profissional.
 
----
+
 
 <div align="center">🎓 Formação
 
@@ -18,7 +18,7 @@ Tenho interesse em desenvolvimento de sistemas, organização de projetos, infra
 
 Atualmente cursando Gestão de Tecnologia da Informação, com foco em tecnologia, processos, sistemas, infraestrutura e gestão aplicada à área de TI.
 
----
+
 
 <div align="center">📚 Formação complementar
 
@@ -34,7 +34,7 @@ Formação de 2 anos com foco em:
 - Gramática prática
 - Informática básica
 
----
+
 
 👥 Gestão de Pessoas — SENAI
 
@@ -61,7 +61,7 @@ Durante a formação, desenvolvi conhecimentos em:
 - Gestão de pessoas
 - Rotinas de contas a pagar, contas a receber e análise de crédito
 
----
+
 
 <div align="center">🧩 Projetos em desenvolvimento
 
@@ -84,7 +84,7 @@ Principais sistemas planejados:
 - Anti-flood
 - Sistema de assinatura mensal
 
----
+
 
 ⛏️ EssentialsSync+
 
@@ -102,7 +102,7 @@ Funcionalidades planejadas:
 - Sistemas personalizados
 - Outras funcionalidades surpresa
 
----
+
 
 <div align="center">
 
@@ -123,7 +123,7 @@ Funcionalidades planejadas:
 <img src="https://img.shields.io/badge/Minecraft-8A2BE2?style=for-the-badge&logo=minecraft&logoColor=white" />
 <img src="https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white" />
 
-</div> ---
+</div> 
 
 <div align="center">📌 Áreas de interesse
 
@@ -140,22 +140,22 @@ Funcionalidades planejadas:
     <td align="center">Sistemas, infraestrutura, web e automação</td>
     <td align="center">Organização, processos, equipe e comunicação</td>
   </tr>
-</table></div>---
+</table></div>
 
 <div align="center">📊 Estatísticas do GitHub
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=os1ync&show_icons=true&theme=midnight-purple&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF&bg_color=00000000" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=os1ync&layout=compact&theme=midnight-purple&hide_border=true&title_color=8A2BE2&text_color=FFFFFF&bg_color=00000000" /></div>---
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=os1ync&layout=compact&theme=midnight-purple&hide_border=true&title_color=8A2BE2&text_color=FFFFFF&bg_color=00000000" /></div>
 
 <div align="center">🔥 Atividade
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=os1ync&theme=midnight-purple&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&background=00000000" /></div>---
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=os1ync&theme=midnight-purple&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&background=00000000" /></div>
 
 <div align="center">🚀 Atualmente estudando
 
 </div><div align="center">Gestão de TI • Java • Python • JavaScript • TypeScript • Node.js • React • Git • GitHub • APIs • Desenvolvimento Web • Desenvolvimento de Plugins
 
-</div>---
+</div>
 
 <div align="center">
 
@@ -165,7 +165,7 @@ Funcionalidades planejadas:
   <img src="https://img.shields.io/badge/GitHub-os1ync-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>---
+</div>
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/></div><div align="center">Evoluindo todos os dias para transformar ideias em sistemas reais.
 
