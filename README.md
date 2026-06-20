@@ -58,46 +58,7 @@ Durante a formação, desenvolvi conhecimentos em:
 - Processos administrativos de RH e Departamento Pessoal
 - Gestão de pessoas
 - Rotinas de contas a pagar, contas a receber e análise de crédito
-
-<br>
-<hr>
-<br><div align="center">🧩 Projetos em desenvolvimento
-
-</div>🤖 MasterSync — Bot Discord
-
-Bot Discord multifuncional desenvolvido para atuar como uma solução tudo em um para comunidades.
-
-O objetivo do projeto é reduzir a necessidade de múltiplos bots dentro de um servidor, centralizando várias funcionalidades em uma única aplicação.
-
-Principais sistemas planejados:
-
-- Economia própria
-- Moderação
-- Tickets
-- Logs
-- Níveis
-- Sorteios
-- Automações
-- Anti-raid
-- Anti-flood
-- Sistema de assinatura mensal
-
-<br>⛏️ EssentialsSync+
-
-Plugin brasileiro para servidores Minecraft, pensado para reunir funcionalidades essenciais que servidores Paper/Spigot precisam no dia a dia.
-
-O projeto tem como objetivo entregar uma solução prática, organizada e completa para servidores brasileiros.
-
-Funcionalidades planejadas:
-
-- Homes
-- Warps
-- Utilidades
-- Encantamentos com níveis mais altos
-- Recursos administrativos
-- Sistemas personalizados
-- Outras funcionalidades surpresa
-
+  
 <br>
 <hr>
 <br><div align="center">🛠️ Tecnologias e ferramentas
