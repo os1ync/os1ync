@@ -61,7 +61,7 @@ Durante a formação, desenvolvi conhecimentos em:
   
 <br>
 <hr>
-<br><div align="center">🛠️ Tecnologias e ferramentas em Aprendizado
+<br><div align="center">🛠️ Tecnologias e ferramentas em aprendizado
 
 </div><div align="center"><img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
@@ -84,10 +84,10 @@ Durante a formação, desenvolvi conhecimentos em:
     <td align="center"><b>Gestão</b></td>
   </tr>
   <tr>
-    <td align="center">Servidores, plugins, configurações e sistemas</td>
-    <td align="center">Bots, automações, moderação e comunidades</td>
-    <td align="center">Sistemas, infraestrutura, web e automação</td>
-    <td align="center">Organização, processos, equipe e comunicação</td>
+    <td align="center">Servidores, plugins, configurações e sistemas.</td>
+    <td align="center">Bots, automações, moderação e comunidades.</td>
+    <td align="center">Sistemas, infraestrutura, web e automação.</td>
+    <td align="center">Organização, processos, equipe e comunicação.</td>
   </tr>
 </table></div><br>
 <hr>
