@@ -1,6 +1,6 @@
 <div align="center">👋 Olá, eu sou o Sync!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Entusiasta+de+tecnologia;Amante+dos+games;Cursando+Gest%C3%A3o+de+TI;Configurador+de+Servidores+Minecraft;Criando+bots,+plugins+e+sistemas" alt="Typing SVG" /></div>---
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Entusiasta+de+tecnologia;Amante+dos+games;Cursando+Gest%C3%A3o+de+TI;Configurador+de+Servidores+Minecraft;Criando+bots +plugins+e+sistemas" alt="Typing SVG" /></div>---
 
 <div align="center">🟣 Sobre mim
 
@@ -167,6 +167,6 @@ Funcionalidades planejadas:
 
 </div>---
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/></div><div align="center">“Evoluindo todos os dias para transformar ideias em sistemas reais.”
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/></div><div align="center">Evoluindo todos os dias para transformar ideias em sistemas reais.
 
 </div>
