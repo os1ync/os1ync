@@ -14,7 +14,7 @@ Tenho interesse em desenvolvimento de sistemas, organização de projetos, infra
 <hr>
 <br><div align="center">🎓 Formação
 
-</div>📘 Gestão de TI — Estácio
+</div>💻 Gestão de TI — Estácio
 
 Atualmente cursando Gestão de Tecnologia da Informação, com foco em tecnologia, processos, sistemas, infraestrutura e gestão aplicada à área de TI.
 
@@ -22,7 +22,7 @@ Atualmente cursando Gestão de Tecnologia da Informação, com foco em tecnologi
 <hr>
 <br><div align="center">📚 Formação complementar
 
-</div>🏢 Administração — CIEE
+</div>📚 Administração — CIEE
 
 Formação de 2 anos com foco em:
 
