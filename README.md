@@ -61,7 +61,7 @@ Durante a formação, desenvolvi conhecimentos em:
   
 <br>
 <hr>
-<br><div align="center">🛠️ Tecnologias e ferramentas
+<br><div align="center">🛠️ Tecnologias e ferramentas em Aprendizado
 
 </div><div align="center"><img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
