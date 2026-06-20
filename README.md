@@ -104,20 +104,26 @@ Funcionalidades planejadas:
 
 ---
 
-<div align="center">🛠️ Tecnologias e ferramentas
+<div align="center">
 
-</div><div align="center">"Java" (https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white)
-"Python" (https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white)
-"TypeScript" (https://img.shields.io/badge/TypeScript-8A2BE2?style=for-the-badge&logo=typescript&logoColor=white)
-"Node.js" (https://img.shields.io/badge/Node.js-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white)
-"React" (https://img.shields.io/badge/React-8A2BE2?style=for-the-badge&logo=react&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-8A2BE2?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)
-"Minecraft" (https://img.shields.io/badge/Minecraft-8A2BE2?style=for-the-badge&logo=minecraft&logoColor=white)
-"Discord" (https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white)
+## 🛠️ Tecnologias e ferramentas
 
-</div>---
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-8A2BE2?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-8A2BE2?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-8A2BE2?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Minecraft-8A2BE2?style=for-the-badge&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white" />
+
+</div> ---
 
 <div align="center">📌 Áreas de interesse
 
@@ -151,9 +157,13 @@ Funcionalidades planejadas:
 
 </div>---
 
-<div align="center">🌐 Onde me encontrar
+<div align="center">
 
-""GitHub" (https://img.shields.io/badge/GitHub-os1ync-8A2BE2?style=for-the-badge&logo=github)" (https://github.com/os1ync)
+## 🌐 Onde me encontrar
+
+<a href="https://github.com/os1ync">
+  <img src="https://img.shields.io/badge/GitHub-os1ync-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>---
 
