@@ -73,7 +73,10 @@ Em 2023, fui eleito e homenageado como **Aluno Destaque da Aprendizagem Industri
 ## Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-os1ync-8A2BE2?style=flat-square&logo=github&logoColor=white)](https://github.com/os1ync)
+[![Instagram](https://img.shields.io/badge/Instagram-@os1ync-8A2BE2?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/os1ync/)
 
 ---
+
+*Aprendendo, construindo e melhorando um projeto de cada vez.*
 
 *Aprendendo, construindo e melhorando um projeto de cada vez.*
