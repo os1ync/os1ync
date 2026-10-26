@@ -1,122 +1,79 @@
-<div align="center">👋 Olá, eu sou o Sync!
+# Sync
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Entusiasta+de+tecnologia;Amante+dos+games;Cursando+Gest%C3%A3o+de+TI;Configurador+Minecraft;Criando+bots,+plugins+e+sistemas" alt="Typing SVG" /></div><br>
-<hr>
-<br><div align="center">🟣 Sobre mim
+Estudante de Gestão de TI • Desenvolvedor em formação • Criador de projetos
 
-</div>Sou uma pessoa fascinada por tecnologia, games e pelo desenvolvimento de soluções digitais.
+Gosto de entender como as coisas funcionam e encontrar maneiras de torná-las melhores. É isso que me levou à tecnologia: a possibilidade de transformar ideias em ferramentas que resolvem problemas reais.
 
-Atualmente estou cursando Gestão de TI pela Estácio e venho construindo minha trajetória unindo conhecimentos técnicos, experiência administrativa e projetos voltados para servidores Minecraft, bots Discord e automações.
+Atualmente curso Gestão de Tecnologia da Informação na Estácio e desenvolvo projetos próprios envolvendo automação, bots para Discord, servidores Minecraft e aplicações web.
 
-Tenho interesse em desenvolvimento de sistemas, organização de projetos, infraestrutura, comunidades online e soluções que ajudem equipes, servidores e empresas a trabalharem de forma mais profissional.
+Tenho interesse tanto na parte técnica quanto na organização por trás dos sistemas — desde a infraestrutura até a experiência de quem vai utilizar o produto.
 
-<br>
-<hr>
-<br><div align="center">🎓 Formação
+---
 
-</div>💻 Gestão de TI — Estácio
+## Sobre mim
 
-Atualmente cursando Gestão de Tecnologia da Informação, com foco em tecnologia, processos, sistemas, infraestrutura e gestão aplicada à área de TI.
+- 🎓 Gestão de Tecnologia da Informação — Estácio
+- 💻 Desenvolvimento de ferramentas, automações e sistemas próprios
+- 🎮 Minecraft: servidores, plugins e configurações
+- 🤖 Discord: bots, integrações e ferramentas para comunidades
+- ⚙️ Interesse em infraestrutura Linux, desenvolvimento web e organização de sistemas
 
-<br>
-<hr>
-<br><div align="center">📚 Formação complementar
+Minha formação também inclui experiências em Administração e Gestão de Pessoas, que complementam meu interesse por processos, organização e trabalho em equipe.
 
-</div>📚 Administração — CIEE
+## O que estou construindo
 
-Formação de 2 anos com foco em:
+**SyncTools**  
+Uma ferramenta para administrar servidores Minecraft, reunindo gerenciamento do servidor, edição de arquivos e ferramentas de configuração em um único painel.
 
-- Rotinas administrativas
-- Comunicação empresarial
-- Gestão do tempo
-- Organização no ambiente de trabalho
-- Comunicação escrita
-- Gramática prática
-- Informática básica
+**MasterSync**  
+Um bot para Discord voltado à administração de comunidades, com sistemas de moderação, tickets, automações e outras funcionalidades.
 
-<br>👥 Gestão de Pessoas — SENAI
+**Syncrono**  
+Um projeto de plataforma de comunicação auto-hospedada, com identidade visual própria e foco na personalização da experiência dos usuários.
 
-Curso de 800 horas, com foco em áreas administrativas, industriais, organizacionais e de gestão.
+São projetos que utilizo para aprender, experimentar tecnologias e desenvolver soluções cada vez mais completas.
 
-«🏆 Eleito e homenageado como Aluno Destaque da Aprendizagem Industrial — 2023»
+## Tecnologias
 
-Durante a formação, desenvolvi conhecimentos em:
+Ferramentas com as quais estudo e trabalho nos meus projetos:
 
-- Relações socioprofissionais
-- Saúde e segurança no trabalho
-- Raciocínio lógico e análise de dados
-- Transformação digital no setor industrial
-- Fundamentos da comunicação e informação
-- Planejamento e organização do trabalho
-- Comunicação empresarial
-- Técnicas de atendimento ao cliente
-- Fundamentos da gestão organizacional
-- Informática aplicada
-- Rotinas de apoio administrativo nas áreas de logística, produção e projetos
-- Processos administrativos, marketing e vendas
-- Ferramentas de qualidade
-- Processos administrativos de RH e Departamento Pessoal
-- Gestão de pessoas
-- Rotinas de contas a pagar, contas a receber e análise de crédito
-  
-<br>
-<hr>
-<br><div align="center">🛠️ Tecnologias e ferramentas em aprendizado
+<p>
+  <img src="https://img.shields.io/badge/Java-8A2BE2?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-8A2BE2?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-8A2BE2?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-8A2BE2?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-8A2BE2?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-8A2BE2?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Git-8A2BE2?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-8A2BE2?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+</p>
 
-</div><div align="center"><img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-8A2BE2?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-8A2BE2?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-8A2BE2?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Minecraft-8A2BE2?style=for-the-badge&logo=minecraft&logoColor=white" />
-<img src="https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white" /></div><br>
-<hr>
-<br><div align="center">📌 Áreas de interesse
+Também estudo APIs, desenvolvimento web, integrações, ferramentas para Minecraft e automação de processos.
 
-</div><div align="center"><table>
-  <tr>
-    <td align="center"><b>Minecraft</b></td>
-    <td align="center"><b>Discord</b></td>
-    <td align="center"><b>TI</b></td>
-    <td align="center"><b>Gestão</b></td>
-  </tr>
-  <tr>
-    <td align="center">Servidores, plugins, configurações e sistemas.</td>
-    <td align="center">Bots, automações, moderação e comunidades.</td>
-    <td align="center">Sistemas, infraestrutura, web e automação.</td>
-    <td align="center">Organização, processos, equipe e comunicação.</td>
-  </tr>
-</table></div><br>
-<hr>
-<br><div align="center">📊 Estatísticas do GitHub
+## Formação
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=os1ync&show_icons=true&theme=midnight-purple&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF&bg_color=00000000" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=os1ync&layout=compact&theme=midnight-purple&hide_border=true&title_color=8A2BE2&text_color=FFFFFF&bg_color=00000000" /></div><br>
-<hr>
-<br><div align="center">🔥 Atividade
+**Gestão de Tecnologia da Informação — Estácio**  
+Em andamento.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=os1ync&theme=midnight-purple&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&background=00000000" /></div><br>
-<hr>
-<br><div align="center">🚀 Atualmente estudando
+**Formação complementar — CIEE**  
+Dois anos de formação com conteúdos de administração, comunicação empresarial, informática e organização do trabalho.
 
-<img src="https://img.shields.io/badge/Gest%C3%A3o%20de%20TI-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-8A2BE2?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/APIs-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Desenvolvimento%20Web-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Plugins%20Minecraft-8A2BE2?style=for-the-badge" /></div><br>
-<hr>
-<br><div align="center">🌐 Onde me encontrar
+**Gestão de Pessoas — SENAI**  
+Formação de 800 horas, com conteúdos relacionados à gestão organizacional, processos administrativos, qualidade e recursos humanos.
 
-<a href="https://github.com/os1ync">
-  <img src="https://img.shields.io/badge/GitHub-os1ync-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-</a></div><br>
-<hr>
-<br><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/></div><div align="center">“Evoluindo todos os dias para transformar ideias em sistemas reais.”
+Em 2023, fui eleito e homenageado como **Aluno Destaque da Aprendizagem Industrial**.
 
-</div>
+## GitHub
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=os1ync&show_icons=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=C9D1D9&bg_color=0D1117" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=os1ync&layout=compact&hide_border=true&title_color=8A2BE2&text_color=C9D1D9&bg_color=0D1117" alt="Linguagens mais utilizadas" />
+</p>
+
+## Contato
+
+[![GitHub](https://img.shields.io/badge/GitHub-os1ync-8A2BE2?style=flat-square&logo=github&logoColor=white)](https://github.com/os1ync)
+
+---
+
+*Aprendendo, construindo e melhorando um projeto de cada vez.*
