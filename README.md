@@ -1,122 +1,144 @@
-Sync
+<div align="center">
 
-Estudante de Gestão de TI · Desenvolvedor em formação · Criador de projetos
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:8A2BE2,100:A855F7&height=180&section=header&text=SYNC%20DEV&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Tecnologia%20%7C%20Desenvolvimento%20%7C%20Inovação&descAlignY=60&descSize=14" width="100%" />
 
-Gosto de entender como as coisas funcionam e encontrar maneiras de torná-las melhores. Foi isso que me aproximou da tecnologia: a possibilidade de transformar ideias em ferramentas úteis e resolver problemas na prática.
+<h3>Estudante de Gestão de TI | Desenvolvedor em formação</h3>
 
-Atualmente, curso Gestão de Tecnologia da Informação na Estácio e desenvolvo projetos próprios envolvendo automação, bots para Discord, servidores Minecraft e aplicações web.
+<p>
+Desenvolvendo ideias, automatizando processos e construindo soluções.
+</p>
 
-Também me interesso pela organização e pela infraestrutura por trás dos sistemas, desde o gerenciamento de servidores até a experiência de quem utiliza as ferramentas que desenvolvo.
+<br />
 
----
+<a href="https://github.com/os1ync">
+<img src="https://img.shields.io/badge/GitHub-os1ync-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/os1ync/">
+<img src="https://img.shields.io/badge/Instagram-@os1ync-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://discord.com/users/os1ync">
+<img src="https://img.shields.io/badge/Discord-os1ync-8A2BE2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<br /><br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=Desenvolvimento+de+Software;Automa%C3%A7%C3%A3o+e+Integra%C3%A7%C3%B5es;Infraestrutura+e+Administra%C3%A7%C3%A3o+de+Sistemas;Transformando+ideias+em+projetos" />
+
+</div>
 
 Sobre mim
 
-- Gestão de Tecnologia da Informação — Estácio
-- Desenvolvimento de ferramentas, automações e sistemas próprios
-- Servidores Minecraft, plugins e configurações
-- Bots para Discord, integrações e ferramentas para comunidades
-- Linux, infraestrutura, desenvolvimento web e administração de sistemas
+Sou estudante de Gestão da Tecnologia da Informação na Estácio, interessado em desenvolvimento de software, infraestrutura, automação e administração de sistemas.
 
-Minha formação também inclui conhecimentos em Administração e Gestão de Pessoas, que complementam meu interesse por organização, processos e trabalho em equipe.
+Minha relação com a tecnologia vai além da programação. Gosto de compreender como os sistemas funcionam, explorar novas ferramentas e encontrar maneiras de transformar necessidades em soluções práticas.
 
-Projetos
+Atualmente, dedico meu tempo ao desenvolvimento de projetos próprios, envolvendo bots para Discord, ferramentas de gerenciamento, servidores de jogos e aplicações web.
+
+Tenho interesse especial na integração entre desenvolvimento e infraestrutura, buscando compreender tanto a construção de uma aplicação quanto os processos necessários para mantê-la funcionando.
+
+Áreas de interesse
+Desenvolvimento de aplicações e ferramentas.
+Automação de processos e integrações.
+Desenvolvimento de bots e sistemas para Discord.
+Administração de servidores Minecraft.
+Infraestrutura Linux e gerenciamento de serviços.
+Desenvolvimento web e experiência do usuário.
+Gestão de TI, organização e otimização de processos.
+Projetos em destaque
+
+Projetos próprios que utilizo para explorar tecnologias, desenvolver habilidades e transformar ideias em aplicações funcionais.
 
 SyncTools
 
-Ferramenta em desenvolvimento para gerenciamento de servidores Minecraft. A proposta é reunir controle do servidor, edição de arquivos e ferramentas de configuração em um único painel.
+Gerenciamento e administração de servidores Minecraft
 
+Ferramenta em desenvolvimento com a proposta de centralizar o gerenciamento de servidores Minecraft em uma interface intuitiva.
+
+Gerenciamento de servidores.
+Edição e organização de arquivos.
+Ferramentas de configuração.
+Centralização de funcionalidades administrativas.
 MasterSync
 
-Bot para Discord com funcionalidades voltadas à administração de comunidades, incluindo moderação, sistema de tickets, automações e ferramentas de gerenciamento.
+Bot de gerenciamento e automação para Discord
 
+Projeto voltado à administração de comunidades, com funcionalidades para facilitar tarefas administrativas e melhorar a organização dos servidores.
+
+Moderação e gerenciamento.
+Sistema de tickets.
+Automações e integrações.
+Ferramentas administrativas.
 Syncrono
 
-Projeto de uma plataforma de comunicação auto-hospedada, com identidade visual própria e foco na personalização da interface e da experiência dos usuários.
+Plataforma de comunicação auto-hospedada
 
-Esses projetos fazem parte do meu aprendizado e me permitem explorar tecnologias, testar ideias e desenvolver soluções cada vez mais completas.
+Projeto de uma plataforma de comunicação com identidade visual própria, explorando personalização, infraestrutura e experiência do usuário.
 
----
-
+Personalização da interface.
+Exploração de soluções auto-hospedadas.
+Organização da experiência de comunicação.
+Identidade visual e estrutura da plataforma.
 Tecnologias e ferramentas
 
-Linguagens
+Ferramentas, linguagens e plataformas com as quais estudo, trabalho ou desenvolvo projetos.
+
+Linguagens de programação
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-8A2BE2?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-8A2BE2?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-8A2BE2?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-8A2BE2?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Lua-8A2BE2?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/YAML-8A2BE2?style=flat-square&logo=yaml&logoColor=white" alt="YAML" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,lua&theme=dark" />
 </p>
-
-Frameworks e plataformas
 
 <p>
-  <img src="https://img.shields.io/badge/Paper-8A2BE2?style=flat-square" alt="Paper" />
-  <img src="https://img.shields.io/badge/Bukkit-8A2BE2?style=flat-square" alt="Bukkit" />
-  <img src="https://img.shields.io/badge/Velocity-8A2BE2?style=flat-square" alt="Velocity" />
-  <img src="https://img.shields.io/badge/Pawn.RakNet-8A2BE2?style=flat-square" alt="Pawn.RakNet" />
+<img src="https://img.shields.io/badge/YAML-8A2BE2?style=flat-square&logo=yaml&logoColor=white" />
+<img src="https://img.shields.io/badge/JSON-8A2BE2?style=flat-square&logo=json&logoColor=white" />
 </p>
 
-Games
+Desenvolvimento e plataformas
 
 <p>
-  <img src="https://img.shields.io/badge/Counter--Strike-8A2BE2?style=flat-square&logo=counterstrike&logoColor=white" alt="Counter-Strike" />
-  <img src="https://img.shields.io/badge/Minecraft-8A2BE2?style=flat-square&logo=minecraft&logoColor=white" alt="Minecraft" />
-  <img src="https://img.shields.io/badge/SA--MP-8A2BE2?style=flat-square" alt="SA-MP" />
-  <img src="https://img.shields.io/badge/M.U.G.E.N-8A2BE2?style=flat-square" alt="M.U.G.E.N" />
+<img src="https://skillicons.dev/icons?i=nodejs,html,css,mysql,discordjs&theme=dark" />
 </p>
-
-Infraestrutura
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-8A2BE2?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/MySQL-8A2BE2?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Cloudflare-8A2BE2?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Pterodactyl-8A2BE2?style=flat-square&logo=pterodactyl&logoColor=white" alt="Pterodactyl" />
+<img src="https://img.shields.io/badge/Paper-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/Bukkit-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/Velocity-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/Pawn.RakNet-8A2BE2?style=flat-square" />
 </p>
 
-Conhecimentos e ferramentas
+Infraestrutura e sistemas
 
 <p>
-  <img src="https://img.shields.io/badge/JSON-8A2BE2?style=flat-square&logo=json&logoColor=white" alt="JSON" />
-  <img src="https://img.shields.io/badge/VS_Code-8A2BE2?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Debian-8A2BE2?style=flat-square&logo=debian&logoColor=white" alt="Debian" />
-  <img src="https://img.shields.io/badge/Ubuntu-8A2BE2?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Windows-8A2BE2?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,cloudflare,mysql,vscode&theme=dark" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Zorin_OS-8A2BE2?style=flat-square" alt="Zorin OS" />
-  <img src="https://img.shields.io/badge/Windows_XP-8A2BE2?style=flat-square" alt="Windows XP" />
-  <img src="https://img.shields.io/badge/Windows_7-8A2BE2?style=flat-square" alt="Windows 7" />
-</p>
-
-Inteligência Artificial
 
 <p>
-  <img src="https://img.shields.io/badge/ChatGPT-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Gemini-8A2BE2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Claude-8A2BE2?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/DeepSeek-8A2BE2?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
+<img src="https://img.shields.io/badge/Pterodactyl-8A2BE2?style=flat-square&logo=pterodactyl&logoColor=white" />
+<img src="https://img.shields.io/badge/Zorin_OS-8A2BE2?style=flat-square" />
 </p>
 
-Produtividade e edição
+Inteligência artificial
 
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_Word-8A2BE2?style=flat-square&logo=microsoftword&logoColor=white" alt="Word" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-8A2BE2?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-8A2BE2?style=flat-square&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint" />
-  <img src="https://img.shields.io/badge/LibreOffice-8A2BE2?style=flat-square&logo=libreoffice&logoColor=white" alt="LibreOffice" />
-  <img src="https://img.shields.io/badge/Notepad%2B%2B-8A2BE2?style=flat-square&logo=notepadplusplus&logoColor=white" alt="Notepad++" />
+<img src="https://img.shields.io/badge/ChatGPT-8A2BE2?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8A2BE2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-8A2BE2?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/DeepSeek-8A2BE2?style=flat-square&logo=deepseek&logoColor=white" />
 </p>
 
----
+Produtividade e ferramentas
 
-Formação
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Word-8A2BE2?style=flat-square&logo=microsoftword&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-8A2BE2?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_PowerPoint-8A2BE2?style=flat-square&logo=microsoftpowerpoint&logoColor=white" />
+<img src="https://img.shields.io/badge/LibreOffice-8A2BE2?style=flat-square&logo=libreoffice&logoColor=white" />
+<img src="https://img.shields.io/badge/Notepad%2B%2B-8A2BE2?style=flat-square&logo=notepadplusplus&logoColor=white" />
+</p>
 
-Gestão de Tecnologia da Informação — Estácio
+Formação acadêmica e complementar
+
+Gestão da Tecnologia da Informação — Estácio
 
 Em andamento.
 
@@ -126,28 +148,21 @@ Dois anos de formação com conteúdos relacionados a rotinas administrativas, c
 
 Gestão de Pessoas — SENAI
 
-Formação de 800 horas, com conteúdos relacionados à gestão organizacional, processos administrativos, qualidade e recursos humanos.
+Formação de 800 horas, abrangendo gestão organizacional, processos administrativos, qualidade e recursos humanos.
 
-Em 2023, fui eleito e homenageado como Aluno Destaque da Aprendizagem Industrial.
+Reconhecimento
+Aluno Destaque da Aprendizagem Industrial — 2023
 
----
+Eleito e homenageado em reconhecimento ao desempenho durante a formação.
 
-Contato
+GitHub Analytics
 
-<p>
-  <a href="https://github.com/os1ync">
-    <img src="https://img.shields.io/badge/GitHub-os1ync-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/os1ync/">
-    <img src="https://img.shields.io/badge/Instagram-@os1ync-8A2BE2?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/users/os1ync">
-    <img src="https://img.shields.io/badge/Discord-os1ync-8A2BE2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:8A2BE2,100:A855F7&height=110&section=footer" width="100%" />
 
-<p align="center">
-  <i>Aprendendo na prática, construindo projetos e evoluindo a cada etapa.</i>
-</p>
+SYNC DEV
+
+Aprendizado contínuo. Desenvolvimento prático. Evolução constante.
+
+</div>
