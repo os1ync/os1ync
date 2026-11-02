@@ -53,7 +53,7 @@ Tenho interesse especial na integração entre desenvolvimento e infraestrutura,
 
 <br>
 
-#### 🛠️ SyncTools
+#### - SyncTools
 *Gerenciamento e administração de servidores Minecraft*
 
 Ferramenta em desenvolvimento com a proposta de centralizar o gerenciamento de servidores Minecraft em uma interface intuitiva.
@@ -65,7 +65,7 @@ Ferramenta em desenvolvimento com a proposta de centralizar o gerenciamento de s
 
 ---
 
-#### 🤖 MasterSync
+#### - MasterSync
 *Bot de gerenciamento e automação para Discord*
 
 Projeto voltado à administração de comunidades, com funcionalidades para facilitar tarefas administrativas e melhorar a organização dos servidores.
@@ -77,7 +77,7 @@ Projeto voltado à administração de comunidades, com funcionalidades para faci
 
 ---
 
-#### 🌐 Syncrono
+#### - Syncrono
 *Plataforma de comunicação auto-hospedada*
 
 Projeto de uma plataforma de comunicação com identidade visual própria, explorando personalização, infraestrutura e experiência do usuário.
